@@ -48,10 +48,12 @@ function stopColor() {
 
 ## 학습 출처
 **유튜브**  
-
-**CSS**  
+https://www.youtube.com/@JavaScriptKing  
 
 **JS**  
- 
+https://developer.mozilla.org/ko/   
+https://www.w3schools.com/#gsc.tab=0  
+
 **키워드**  
 - padStart
+- clearInterval
